@@ -1,0 +1,17 @@
+.grid>div{background-color: rgb(160, 0, 209);display: flex;margin: 10px; padding: 10px;border-color: black;}
+
+.item img{border:black;border-style: solid;border-radius:20px;}
+
+header :hover
+{
+    background-color: gold;
+}
+.item img:hover
+{
+    opacity: 0.7;
+}
+
+.item:hover
+{
+    background-color: aqua;
+}
